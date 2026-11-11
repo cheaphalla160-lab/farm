@@ -1,0 +1,6 @@
+{
+  "name": "Farm Apple Picking & English Read-Aloud Adventure",
+  "description": "An interactive, joyful English learning game where students pick apples on the farm, practice reading aloud agriculture vocabulary, and compete on the classroom leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
